@@ -6,61 +6,63 @@
         I'm Sufyan.<br>
          I'm eager to continue learning and expanding my knowledge in the field of front-end development<br>
         I aim to innovate and contribute to tech using my skills and experience.<br>
+        reach me on:
+        <br>
     </i><br>
-    <a href="https://www.linkedin.com/in/sufyancs">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="mailto:sufianb.contact@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
-    <a href="https://discordapp.com/users/sufyancs">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord">
-    </a>
-    <a href="https://sufyancs.me">
-        <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Portfolio">
-    </a>
+  <a href="mailto:sufianb.contact@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sufyancs">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>
+  </a>
+<a href="https://sufyancs.me">
+  <img src="https://img.icons8.com/color/48/000000/domain.png" width="5%"/>
+</a>
+  <a href="https://www.instagram.com/becoder.official/">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="5%"/>
+  </a>
+<a href="https://discordapp.com/users/your-username">
+  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="5%"/>
+</a>
+
 </p>
 
 ### Languages
-[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://github.com/wervlad)
-[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)](https://github.com/wervlad)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/wervlad)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
-[![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp)](https://github.com/wervlad)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/sufyancs)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Technologies & Frameworks
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/wervlad)
-[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)](https://github.com/wervlad)
-[![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://github.com/wervlad)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwind-css)](https://github.com/wervlad)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/wervlad)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 
 ### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
-
-<details>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <p align="center">
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/sufyancs">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sufyancs&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/sufyancs">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufyancs&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
+  <a href="https://github.com/sufyancs">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sufyancs&theme=transparent" />
   </a>
-  <a href="https://github.com/wervlad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyancs&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+
+
 </p>
-</details>
 
 <p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="https://komarev.com/ghpvc/?username=sufyancs&color=blue&style=flat)" />
+  <a href="https://github.com/sufyancs">
+    <img src="https://komarev.com/ghpvc/?username=sufyancs&color=blue&style=flat)" width="15%"/>
   </a>
 </p>
 <!--
