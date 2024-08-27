@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/sufyancs">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>
   </a>
-<a href="https://sufyancs.me">
+<a href="https://my-portfolio-sufyancs.vercel.app">
   <img src="https://img.icons8.com/color/48/000000/domain.png" width="5%"/>
 </a>
   <a href="https://www.instagram.com/becoder.official/">
